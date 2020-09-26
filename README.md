@@ -63,7 +63,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ## Progression - 2
 1. ***Create a class called ListOperations inside service package with the following methods.***
    - ***public List<TouristPlace> add(TouristPlace places)***
-   - ***public List<TouristPlace> remove(TouristPlace places)***
+   - ***public List<TouristPlace> remove()***
    - ***public Object sortByDestination(List<TouristPlace> places)***
    - ***public Object sortByRank(List<TouristPlace> places)***
    - ***public Object reset(List<TouristPlace> places)***
@@ -86,7 +86,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
  ## Progression - 4
 1. ***Create a class called SetOperations inside service package with the following methods.***
    - ***public HashSet<TouristPlace> add(TouristPlace places)***
-   - ***public HashSet<TouristPlace> remove(TouristPlace places)***
+   - ***public HashSet<TouristPlace> remove()***
    - ***public Object sortByDestination(HashSet<TouristPlace> places)***
    - ***public Object sortByRank(HashSet<TouristPlace> places)***
    - ***public Object reset(HashSet<TouristPlace> places)***
