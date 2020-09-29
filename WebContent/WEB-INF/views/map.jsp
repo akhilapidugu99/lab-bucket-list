@@ -57,9 +57,9 @@
 
 					<tr>
 
-						<td><c:out value="${bucket.getName()}" /></td>
-						<td><c:out value="${bucket.getDestination()}" /></td>
-						<td><c:out value="${bucket.getRank()}" /></td>
+						<td><c:out value="${bucket.getKey()}" /></td>
+						<td><c:out value="${bucket.getValue().getDestination()}" /></td>
+						<td><c:out value="${bucket.getValue().getRank()}" /></td>
 
 					</tr>
 				</c:forEach>
