@@ -1,4 +1,3 @@
-
 <%@page import="model.TouristPlace"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="java.util.List"%>
